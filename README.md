@@ -2,7 +2,7 @@
 
 Hi there, I'm Leo
 
-- I only upload personal stuff that someone else can find useful thus the lack of seriousness on my readme's 😅
+- I only upload personal stuff that someone else can find useful, thus the lack of seriousness on my readme's 😅
 
 <!--
 **ImxTreme21/ImxTreme21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
