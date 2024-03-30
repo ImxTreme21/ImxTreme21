@@ -1,6 +1,6 @@
 ### Hi!
 
-Hi there, I'm Leo
+Hi there, I'm Leo and I like ferns 🌿
 
 - I only upload personal stuff that someone else can find useful, thus the lack of seriousness on my readme's 😅
 
